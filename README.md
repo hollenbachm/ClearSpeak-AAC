@@ -17,3 +17,11 @@ The project was inspired by my father's stroke in October 2025 and the communica
 ## Live prototype
 
 https://clearspeak.replit.app
+
+## Support Development
+
+ClearSpeak is a free tool inspired by my father's stroke recovery.
+
+If you find the project useful and would like to support continued development:
+
+☕ https://buymeacoffee.com/clearspeak
