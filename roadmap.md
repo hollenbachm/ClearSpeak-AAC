@@ -19,8 +19,8 @@ This roadmap outlines current priorities and longer-term goals for the project.
 - [x] Add partner communication tips
 - [x] Add voice settings
 - [x] Add local storage persistence
-- [ ] Increase tap target sizes where needed
-- [ ] Improve visual separation between sections
+- [x] Increase tap target sizes where needed
+- [x] Improve visual separation between sections
 - [ ] Review contrast and readability for accessibility
 - [ ] Confirm speech output works reliably across supported browsers and devices
 - [ ] Add a **Stop Speaking** button
